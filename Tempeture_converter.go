@@ -13,6 +13,10 @@ func main() {
 		C_to_F()
 	case choice == "F":
 		F_to_C()
+	case choice == "c":
+		C_to_F()
+	case choice == "f":
+		F_to_C()
 	}
 }
 
